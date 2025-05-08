@@ -1,6 +1,12 @@
 # ecommerce_app_client
 
-A new Flutter project.
+A client-specific e-commerce store application where the client can purchase products belonging to a specific category under a particular brand. The app includes discounts on certain products, a banner for advertising products, and many other features such as allowing the client to view all orders—whether purchased or canceled by them—and a theme feature (Dark, Light), along with various other functions and operations.
+
+# image
+![Image](https://github.com/user-attachments/assets/52aeba91-da69-4dde-9457-4f95b95f6e02)
+![Image](https://github.com/user-attachments/assets/1a958d47-fa35-4930-821e-fa55ba434f79)
+## Note
+This is only a preview of the application's capabilities. To fully experience its features, functionality, and design, you can download the APK version and explore how the app works in practice.
 
 ## Getting Started
 
